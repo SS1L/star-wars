@@ -1,5 +1,5 @@
 import express from 'express';
-import peopleRoute from './routes/peopleRoute.js';
+import peopleRoute from './routes/starWarsRoute.js';
 
 const app = express();
 
