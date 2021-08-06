@@ -8,8 +8,8 @@ Star Wars
 
 ### Clone
 ``` bash
-git clone https://github.com/SS1L/food_deliver.git
-cd food_deliver
+git clone https://github.com/SS1L/star-wars.git
+cd star-wars
 ```
 
 ### Run server  
